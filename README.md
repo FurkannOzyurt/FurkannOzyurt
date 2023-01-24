@@ -5,10 +5,10 @@
 I am a student in Hacettepe University. I am studying on data science.
 
 ## Skills
-🍋 Python
-🍒 Sql
-🍑 Java
-🍍 C++
+* 🍋 Python
+* 🍒 Sql
+* 🍑 Java
+* 🍍 C++
 
 - 🌱 I’m currently learning data science. 
 

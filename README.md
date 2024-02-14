@@ -16,7 +16,7 @@ I am a student pursuing a degree in Artificial Intelligence Engineering at Hacet
 
 ## 📫 Contact
 
-- LinkedIn: [[https://www.linkedin.com/in/furkan-%C3%B6zyurt-9362ab225/](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADh2YXoB549I9_2dLmw6qKaHFEDacGY2g2E&keywords=furkan%20%C3%B6zyurt&origin=RICH_QUERY_SUGGESTION&position=0&searchId=9ce573d1-f079-4645-b84a-24bba08a7caa&sid=_t(&spellCorrectionEnabled=false)https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADh2YXoB549I9_2dLmw6qKaHFEDacGY2g2E&keywords=furkan%20%C3%B6zyurt&origin=RICH_QUERY_SUGGESTION&position=0&searchId=9ce573d1-f079-4645-b84a-24bba08a7caa&sid=_t(&spellCorrectionEnabled=false](link)
+- LinkedIn: [https://www.linkedin.com/in/furkan-%C3%B6zyurt-9362ab225/](link)
 - Email: [ozyurt.furkanyzf@gmail.com](mailto:email@example.com)
 
 Thank you!

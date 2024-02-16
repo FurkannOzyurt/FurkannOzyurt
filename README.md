@@ -18,5 +18,3 @@ I am a student pursuing a degree in Artificial Intelligence Engineering at Hacet
 
 - LinkedIn: [https://www.linkedin.com/in/furkan-%C3%B6zyurt-9362ab225/](link)
 - Email: [ozyurt.furkanyzf@gmail.com](mailto:email@example.com)
-
-Thank you!

@@ -12,7 +12,7 @@ I am a student pursuing a degree in Artificial Intelligence Engineering at Hacet
 
 - **SQL:** Utilizing SQL to assist in data science projects, ensuring effective data manipulation and analysis.
   
-- **TensorFlow:** Proficientin using TensorFlow to create neural network models, particularly in the context of
+- **TensorFlow:** Proficient in using TensorFlow to create neural network models, particularly in the context of
 computer vision projects.
 
 - **MATLAB:** Skilled in using MATLAB for computer vision tasks, including image processing, feature

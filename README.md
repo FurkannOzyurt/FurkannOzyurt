@@ -15,9 +15,6 @@ I am a student pursuing a degree in Artificial Intelligence Engineering at Hacet
 - **TensorFlow:** Proficient in using TensorFlow to create neural network models, particularly in the context of
 computer vision projects.
 
-- **MATLAB:** Skilled in using MATLAB for computer vision tasks, including image processing, feature
-extraction, and algorithm implementation.
-
 - **Data Science:** Have taken courses in data analysis, data mining, machine learning, deep learning, and computer vision. Continuously improvising my skills in these areas.
 
 ## 📫 Contact

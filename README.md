@@ -4,18 +4,17 @@ I am a student pursuing a degree in Artificial Intelligence Engineering at Hacet
 
 ## 🚀 Skills
 
-- **Python:** Proficient in using Python for solving artificial intelligence problems, utilazing popular libraries and frameworks in the field.
+- **Data Science:**  
+  Completed courses in data analysis, data mining, data-intensive applications, machine learning, deep learning, and computer vision. Continuously improving skills in these areas.
 
-- **Java:** Skilled in Java programming, particularly in the context of object-oriented programming principles.
+- **Python:**  
+  Proficient in Python for solving artificial intelligence problems, with experience in popular libraries and frameworks like **TensorFlow** and **PyTorch**.
 
-- **C++:** Experienced in utilizing C++ for implementing efficient data structures and algorithms, solving complex computational problems.
+- **Java:**  
+  Skilled in Java programming, with a strong grasp of object-oriented programming principles.
 
-- **SQL:** Utilizing SQL to assist in data science projects, ensuring effective data manipulation and analysis.
-  
-- **TensorFlow:** Proficient in using TensorFlow to create neural network models, particularly in the context of
-computer vision projects.
-
-- **Data Science:** Have taken courses in data analysis, data mining, machine learning, deep learning, and computer vision. Continuously improvising my skills in these areas.
+- **C++:**  
+  Experienced in utilizing C++ for implementing efficient data structures and algorithms, and solving complex computational problems.
 
 ## 📫 Contact
 

@@ -1,6 +1,7 @@
 # Hello! 👋 I'm Furkan Özyurt.
 
-I am a student pursuing a degree in Artificial Intelligence Engineering at Hacettepe University. I want to focus on creating projects in the field of artificial intelligence.
+I am a recent graduate in Artificial Intelligence Engineering from Hacettepe University, with a strong foundation in machine learning, deep learning, data science, computer vision and natural language processing.
+I am proficient in Python, including AI libraries like TensorFlow and PyTorch, and have solid experience in Java and C++ for object-oriented and algorithm-focused development.
 
 ## 🚀 Skills
 

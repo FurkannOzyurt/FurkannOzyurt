@@ -1,7 +1,6 @@
 # Hello! 👋 I'm Furkan Özyurt
 
 I am a recent graduate in **Department of Computer Engineering – Programme of Artificial Intelligence** from **Hacettepe University**, with a solid foundation in **machine learning, deep learning, computer vision, natural language processing, and data science**.  
-Passionate about building AI-driven solutions that solve real-world problems, I have hands-on experience in both **academic research projects** and **industry internships**.
 
 ---
 

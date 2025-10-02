@@ -1,19 +1,64 @@
-# Hello! 👋 I'm Furkan Özyurt.
+# Hello! 👋 I'm Furkan Özyurt
 
-I am a recent graduate in Artificial Intelligence Engineering from Hacettepe University, with a strong foundation in machine learning, deep learning, data science, computer vision and natural language processing.
-I am proficient in Python, including AI libraries like TensorFlow and PyTorch, and have solid experience in Java and C++ for object-oriented and algorithm-focused development.
+I am a recent graduate in **Department of Computer Engineering – Programme of Artificial Intelligence** from **Hacettepe University**, with a solid foundation in **machine learning, deep learning, computer vision, natural language processing, and data science**.  
+Passionate about building AI-driven solutions that solve real-world problems, I have hands-on experience in both **academic research projects** and **industry internships**.
+
+---
 
 ## 🚀 Skills
 
-- **Data Science:** Completed courses in data analysis, data mining, data-intensive applications, machine learning, deep learning, and computer vision. Continuously improving skills in these areas.
+- **Data Science & AI:** Data analysis, data mining, data-intensive applications, machine learning, deep learning, computer vision, natural language processing.
+- **Python:** Proficient in AI libraries and frameworks including **TensorFlow** and **PyTorch**.
+- **SQL:** Writing efficient queries for data manipulation, extraction, and reporting.
+- **Java:** Strong grasp of object-oriented programming principles.
+- **C++:** Experienced in algorithms and data structures for efficient problem-solving.
+- **Optimization & Cloud:** Experience with **Pyomo** for optimization tasks and **AWS** for cloud deployment.
 
-- **Python:** Proficient in Python for solving artificial intelligence problems, with experience in popular libraries and frameworks like **TensorFlow** and **PyTorch**.
+---
 
-- **Java:** Skilled in Java programming, with a strong grasp of object-oriented programming principles.
+## 💼 Experience
 
-- **C++:** Experienced in utilizing C++ for implementing efficient data structures and algorithms, and solving complex computational problems.
+- **Artificial Intelligence Intern – Goaltech (June 2024 – July 2024)**  
+  - Implemented a **pair trading strategy** for a cryptocurrency trading platform.  
+  - Developed trading signals and optimized decision-making processes.  
+  - Gained hands-on experience with **AWS cloud services**.  
+
+- **Artificial Intelligence Intern – Esen (August 2024 – September 2024)**  
+  - Worked on **open set classification** problems in real-world scenarios.  
+  - Focused on handling unknown classes during model testing.
+
+---
+
+## 📊 Projects
+
+- **DermAssist:** AI-powered dermatology assistant combining **ViT-Base** for image classification and **RAG + LLM** for medical language generation.  
+- **Human Action Recognition on Volleyball Videos:** Classified **9 fundamental movements** (e.g., spiking, digging, blocking).  
+- **Action Recognition on House Activities:** Developed recognition model using **Toyota SmartHome dataset**.  
+- **Pair Trading Strategy:** Integrated technical analysis, ML models, and risk management for algorithmic trading.  
+- **Predicting CO₂ Emissions of Passenger Cars:** Web scraping + ML to forecast vehicle emissions.  
+- **Mobile Game Analytics:** SQL-based **KPI analysis, A/B test evaluation, and purchase prediction modeling**.  
+- **LinkedIn Repository Role Recommender Agent:** AI agent using **LangGraph + MCP** to recommend top IT roles based on GitHub activity.  
+- **PV & Battery Optimization:** Maximized profits with **Pyomo** using price and generation forecasts.  
+
+---
+
+## 🌍 Languages
+
+- **Turkish:** Native  
+- **English:** Advanced  
+- **German & Spanish:** Beginner  
+
+---
+
+## 🎯 Interests
+
+- Road trips & car travels 🚗  
+- Strategy games ♟️  
+- Team-based sports 🏐  
+
+---
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/furkan-%C3%B6zyurt-9362ab225/](link)
-- Email: [ozyurt.furkanyzf@gmail.com](mailto:email@example.com)
+- **LinkedIn:** [linkedin.com/in/furkan-özyurt-9362ab225](https://www.linkedin.com/in/furkan-%C3%B6zyurt-9362ab225/)  
+- **Email:** [ozyurt.furkanyzf@gmail.com](mailto:ozyurt.furkanyzf@gmail.com)
